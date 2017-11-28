@@ -1,0 +1,13 @@
+C:\Users\oshri\Documents\Visual Studio 2010\Projects\Event5772\Ex1\bin\Debug\Ex1.exe
+C:\Users\oshri\Documents\Visual Studio 2010\Projects\Event5772\Ex1\bin\Debug\Ex1.pdb
+C:\Users\oshri\Documents\Visual Studio 2010\Projects\Event5772\Ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\oshri\Documents\Visual Studio 2010\Projects\Event5772\Ex1\obj\x86\Debug\Ex1.exe
+C:\Users\oshri\Documents\Visual Studio 2010\Projects\Event5772\Ex1\obj\x86\Debug\Ex1.pdb
+D:\JCT\Courses\miniProject\דוגמאות קוד\Event5773\Ex1\bin\Debug\Ex1.exe
+D:\JCT\Courses\miniProject\דוגמאות קוד\Event5773\Ex1\bin\Debug\Ex1.pdb
+D:\JCT\Courses\miniProject\דוגמאות קוד\Event5773\Ex1\obj\x86\Debug\Ex1.exe
+D:\JCT\Courses\miniProject\דוגמאות קוד\Event5773\Ex1\obj\x86\Debug\Ex1.pdb
+E:\JCT\Courses\miniProject\דוגמאות קוד\Event5773\Ex1\obj\x86\Debug\Ex1.exe
+E:\JCT\Courses\miniProject\דוגמאות קוד\Event5773\Ex1\obj\x86\Debug\Ex1.pdb
+C:\JCT\Courses\sem A\C#miniProject\Example Code\5\Event5773\Ex1\obj\x86\Debug\Ex1.exe
+C:\JCT\Courses\sem A\C#miniProject\Example Code\5\Event5773\Ex1\obj\x86\Debug\Ex1.pdb

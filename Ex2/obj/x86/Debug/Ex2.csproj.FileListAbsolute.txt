@@ -1,0 +1,5 @@
+C:\Users\oshri\Documents\Visual Studio 2010\Projects\Event5772\Ex2\bin\Debug\Ex2.exe
+C:\Users\oshri\Documents\Visual Studio 2010\Projects\Event5772\Ex2\bin\Debug\Ex2.pdb
+C:\Users\oshri\Documents\Visual Studio 2010\Projects\Event5772\Ex2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\oshri\Documents\Visual Studio 2010\Projects\Event5772\Ex2\obj\x86\Debug\Ex2.exe
+C:\Users\oshri\Documents\Visual Studio 2010\Projects\Event5772\Ex2\obj\x86\Debug\Ex2.pdb

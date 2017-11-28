@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1", "Ex1\Ex1.csproj", "{DEE129CD-03AC-4953-98B6-D17CD353AA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2", "Ex2\Ex2.csproj", "{F580A6FF-BBD5-43DC-96EA-19F7D2C04183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3", "Ex3\Ex3.csproj", "{12F4DF51-B326-47E0-B4DF-2C56C319394F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4", "Ex4\Ex4.csproj", "{C0CF0F7C-B03D-401A-9EA4-78FDF115F813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5", "Ex5\Ex5.csproj", "{95B323B2-2B5D-4579-A047-2F1BDAB30290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex6", "Ex6\Ex6.csproj", "{74E37647-2D0C-4640-8D72-55DD05F93B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEE129CD-03AC-4953-98B6-D17CD353AA9E}.Debug|x86.ActiveCfg = Debug|x86
+		{DEE129CD-03AC-4953-98B6-D17CD353AA9E}.Debug|x86.Build.0 = Debug|x86
+		{DEE129CD-03AC-4953-98B6-D17CD353AA9E}.Release|x86.ActiveCfg = Release|x86
+		{DEE129CD-03AC-4953-98B6-D17CD353AA9E}.Release|x86.Build.0 = Release|x86
+		{F580A6FF-BBD5-43DC-96EA-19F7D2C04183}.Debug|x86.ActiveCfg = Debug|x86
+		{F580A6FF-BBD5-43DC-96EA-19F7D2C04183}.Debug|x86.Build.0 = Debug|x86
+		{F580A6FF-BBD5-43DC-96EA-19F7D2C04183}.Release|x86.ActiveCfg = Release|x86
+		{F580A6FF-BBD5-43DC-96EA-19F7D2C04183}.Release|x86.Build.0 = Release|x86
+		{12F4DF51-B326-47E0-B4DF-2C56C319394F}.Debug|x86.ActiveCfg = Debug|x86
+		{12F4DF51-B326-47E0-B4DF-2C56C319394F}.Debug|x86.Build.0 = Debug|x86
+		{12F4DF51-B326-47E0-B4DF-2C56C319394F}.Release|x86.ActiveCfg = Release|x86
+		{12F4DF51-B326-47E0-B4DF-2C56C319394F}.Release|x86.Build.0 = Release|x86
+		{C0CF0F7C-B03D-401A-9EA4-78FDF115F813}.Debug|x86.ActiveCfg = Debug|x86
+		{C0CF0F7C-B03D-401A-9EA4-78FDF115F813}.Debug|x86.Build.0 = Debug|x86
+		{C0CF0F7C-B03D-401A-9EA4-78FDF115F813}.Release|x86.ActiveCfg = Release|x86
+		{C0CF0F7C-B03D-401A-9EA4-78FDF115F813}.Release|x86.Build.0 = Release|x86
+		{95B323B2-2B5D-4579-A047-2F1BDAB30290}.Debug|x86.ActiveCfg = Debug|x86
+		{95B323B2-2B5D-4579-A047-2F1BDAB30290}.Debug|x86.Build.0 = Debug|x86
+		{95B323B2-2B5D-4579-A047-2F1BDAB30290}.Release|x86.ActiveCfg = Release|x86
+		{95B323B2-2B5D-4579-A047-2F1BDAB30290}.Release|x86.Build.0 = Release|x86
+		{74E37647-2D0C-4640-8D72-55DD05F93B75}.Debug|x86.ActiveCfg = Debug|x86
+		{74E37647-2D0C-4640-8D72-55DD05F93B75}.Debug|x86.Build.0 = Debug|x86
+		{74E37647-2D0C-4640-8D72-55DD05F93B75}.Release|x86.ActiveCfg = Release|x86
+		{74E37647-2D0C-4640-8D72-55DD05F93B75}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
